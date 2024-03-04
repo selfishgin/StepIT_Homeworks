@@ -1,0 +1,14 @@
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\bin\Debug\net8.0\4MarchHomeworkCSharp.exe
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\bin\Debug\net8.0\4MarchHomeworkCSharp.deps.json
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\bin\Debug\net8.0\4MarchHomeworkCSharp.runtimeconfig.json
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\bin\Debug\net8.0\4MarchHomeworkCSharp.dll
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\bin\Debug\net8.0\4MarchHomeworkCSharp.pdb
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\obj\Debug\net8.0\4MarchHomeworkCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\obj\Debug\net8.0\4MarchHomeworkCSharp.AssemblyInfoInputs.cache
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\obj\Debug\net8.0\4MarchHomeworkCSharp.AssemblyInfo.cs
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\obj\Debug\net8.0\4MarchHomeworkCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\obj\Debug\net8.0\4MarchHomeworkCSharp.dll
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\obj\Debug\net8.0\refint\4MarchHomeworkCSharp.dll
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\obj\Debug\net8.0\4MarchHomeworkCSharp.pdb
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\obj\Debug\net8.0\4MarchHomeworkCSharp.genruntimeconfig.cache
+C:\Users\Antec\source\repos\4MarchHomeworkCSharp\4MarchHomeworkCSharp\obj\Debug\net8.0\ref\4MarchHomeworkCSharp.dll
