@@ -1,0 +1,14 @@
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\bin\Debug\net8.0\9MarchHomework.exe
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\bin\Debug\net8.0\9MarchHomework.deps.json
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\bin\Debug\net8.0\9MarchHomework.runtimeconfig.json
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\bin\Debug\net8.0\9MarchHomework.dll
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\bin\Debug\net8.0\9MarchHomework.pdb
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\obj\Debug\net8.0\9MarchHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\obj\Debug\net8.0\9MarchHomework.AssemblyInfoInputs.cache
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\obj\Debug\net8.0\9MarchHomework.AssemblyInfo.cs
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\obj\Debug\net8.0\9MarchHomework.csproj.CoreCompileInputs.cache
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\obj\Debug\net8.0\9MarchHomework.dll
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\obj\Debug\net8.0\refint\9MarchHomework.dll
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\obj\Debug\net8.0\9MarchHomework.pdb
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\obj\Debug\net8.0\9MarchHomework.genruntimeconfig.cache
+C:\Users\Antec\source\repos\9MarchHomework\9MarchHomework\obj\Debug\net8.0\ref\9MarchHomework.dll
