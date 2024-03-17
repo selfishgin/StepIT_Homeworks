@@ -1,0 +1,30 @@
+{
+  "Id": 1,
+  "Name": "Alie",
+  "Surname": "Aliev",
+  "City": "Baku",
+  "Phone": "123456",
+  "Age": 34,
+  "WorkerCV": {
+    "Specialty": "Programmer",
+    "SchoolAttended": "261",
+    "UniversityAttended": "ADA",
+    "Skills": [
+      "No",
+      " thing"
+    ],
+    "Companies": [
+      "No",
+      " where"
+    ],
+    "StartDate": "2000-12-12T00:00:00",
+    "EndDate": "2010-12-12T00:00:00",
+    "Languages": [
+      "None",
+      " lang"
+    ],
+    "HasDegree": false,
+    "GitHubLink": "asdasfa",
+    "LinkedInLink": "asfagad"
+  }
+}

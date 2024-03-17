@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FaXJW/3acIQnMfpMDSPYZEtkIk8+bgv1PaylH4tKuWBNEIU/2HQdMG0OSnj/O2nVL4OTaA9MYRRkywO4c7pS7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Antec\\source\\repos\\BossAzProjectSTEPIT\\BossAzProjectSTEPIT\\BossAzProjectSTEPIT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antec\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Antec\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Antec\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
