@@ -1,0 +1,9 @@
+C:\Users\Antec\source\repos\IntroToWindowsForms\IntroToWindowsForms\bin\Debug\IntroToWindowsForms.exe.config
+C:\Users\Antec\source\repos\IntroToWindowsForms\IntroToWindowsForms\bin\Debug\IntroToWindowsForms.exe
+C:\Users\Antec\source\repos\IntroToWindowsForms\IntroToWindowsForms\bin\Debug\IntroToWindowsForms.pdb
+C:\Users\Antec\source\repos\IntroToWindowsForms\IntroToWindowsForms\obj\Debug\IntroToWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Antec\source\repos\IntroToWindowsForms\IntroToWindowsForms\obj\Debug\IntroToWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Antec\source\repos\IntroToWindowsForms\IntroToWindowsForms\obj\Debug\IntroToWindowsForms.exe
+C:\Users\Antec\source\repos\IntroToWindowsForms\IntroToWindowsForms\obj\Debug\IntroToWindowsForms.pdb
+C:\Users\Antec\source\repos\IntroToWindowsForms\IntroToWindowsForms\obj\Debug\IntroToWindowsForms.IntroToWPF.resources
+C:\Users\Antec\source\repos\IntroToWindowsForms\IntroToWindowsForms\obj\Debug\IntroToWindowsForms.csproj.GenerateResource.cache
