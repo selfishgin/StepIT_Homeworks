@@ -1,0 +1,9 @@
+C:\Users\Antec\source\repos\MouseHoverApp\MouseHoverApp\bin\Debug\MouseHoverApp.exe.config
+C:\Users\Antec\source\repos\MouseHoverApp\MouseHoverApp\bin\Debug\MouseHoverApp.exe
+C:\Users\Antec\source\repos\MouseHoverApp\MouseHoverApp\bin\Debug\MouseHoverApp.pdb
+C:\Users\Antec\source\repos\MouseHoverApp\MouseHoverApp\obj\Debug\MouseHoverApp.csproj.AssemblyReference.cache
+C:\Users\Antec\source\repos\MouseHoverApp\MouseHoverApp\obj\Debug\MouseHoverApp.csproj.CoreCompileInputs.cache
+C:\Users\Antec\source\repos\MouseHoverApp\MouseHoverApp\obj\Debug\MouseHoverApp.exe
+C:\Users\Antec\source\repos\MouseHoverApp\MouseHoverApp\obj\Debug\MouseHoverApp.pdb
+C:\Users\Antec\source\repos\MouseHoverApp\MouseHoverApp\obj\Debug\MouseHoverApp.Form1.resources
+C:\Users\Antec\source\repos\MouseHoverApp\MouseHoverApp\obj\Debug\MouseHoverApp.csproj.GenerateResource.cache
