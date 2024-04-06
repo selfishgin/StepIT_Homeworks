@@ -1,0 +1,13 @@
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\bin\Debug\Homework_Anket_2.exe.config
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\bin\Debug\Homework_Anket_2.exe
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\bin\Debug\Homework_Anket_2.pdb
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\obj\Debug\Homework_Anket_2.csproj.AssemblyReference.cache
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\obj\Debug\Homework_Anket_2.Form1.resources
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\obj\Debug\Homework_Anket_2.Properties.Resources.resources
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\obj\Debug\Homework_Anket_2.csproj.GenerateResource.cache
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\obj\Debug\Homework_Anket_2.csproj.CoreCompileInputs.cache
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\obj\Debug\Homework_Anket_2.exe
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\obj\Debug\Homework_Anket_2.pdb
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antec\source\repos\Homework_Anket_2\Homework_Anket_2\obj\Debug\Homework_Anket_2.csproj.CopyComplete
