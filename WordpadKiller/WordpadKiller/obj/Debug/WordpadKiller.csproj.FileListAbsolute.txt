@@ -1,0 +1,10 @@
+C:\Users\Antec\source\repos\WordpadKiller\WordpadKiller\bin\Debug\WordpadKiller.exe.config
+C:\Users\Antec\source\repos\WordpadKiller\WordpadKiller\bin\Debug\WordpadKiller.exe
+C:\Users\Antec\source\repos\WordpadKiller\WordpadKiller\bin\Debug\WordpadKiller.pdb
+C:\Users\Antec\source\repos\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.csproj.AssemblyReference.cache
+C:\Users\Antec\source\repos\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.Properties.Resources.resources
+C:\Users\Antec\source\repos\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.csproj.GenerateResource.cache
+C:\Users\Antec\source\repos\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.csproj.CoreCompileInputs.cache
+C:\Users\Antec\source\repos\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.exe
+C:\Users\Antec\source\repos\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.pdb
+C:\Users\Antec\source\repos\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.WordpadKiller.resources
