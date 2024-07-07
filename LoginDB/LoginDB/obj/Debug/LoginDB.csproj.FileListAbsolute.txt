@@ -1,0 +1,5 @@
+C:\Users\Antec\source\repos\LoginDB\LoginDB\obj\Debug\LoginDB.csproj.AssemblyReference.cache
+C:\Users\Antec\source\repos\LoginDB\LoginDB\obj\Debug\MainWindow.g.cs
+C:\Users\Antec\source\repos\LoginDB\LoginDB\obj\Debug\App.g.cs
+C:\Users\Antec\source\repos\LoginDB\LoginDB\obj\Debug\LoginDB_MarkupCompile.cache
+C:\Users\Antec\source\repos\LoginDB\LoginDB\obj\Debug\LoginDB_MarkupCompile.lref
